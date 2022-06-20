@@ -1,0 +1,29 @@
+body{
+  padding-left: 30px;
+  background: #DDDD;
+  color: #B20600;
+
+}
+h2{
+  text-align: center;
+}
+
+.recipes-image{
+  padding-top: 50px;
+  width: 500px;
+  height: 750px;
+  border-radius: 1rem;
+  float: right;
+}
+
+.image-content{
+font-family:  'Oleo+Script+Swash+Caps' ,cursive;
+padding-left: 50px;
+}
+
+.video{
+text-decoration: none;
+font-size: 25px;
+padding-bottom:100px;
+padding-left: 518px
+}
